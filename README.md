@@ -2,7 +2,7 @@
 An earlier project of mine, where I gave instructions to an AI and it executes them accordingly. 
 
 
-These assistants can execute instructions such like:
+These assistant can execute instructions such like:
 - loading a website
 - file handling (opening, closing folders and files (music, picture loading with the method of loading the relative path)- additional features will be added later on such like new file creation, saves, editing text etc..)
 - creating a simmple example chart for a presentation
