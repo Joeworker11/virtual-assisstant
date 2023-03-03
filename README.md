@@ -12,7 +12,6 @@ These assistant can execute instructions such like:
 - greeting according to the time 
 - telling the exact date/time
 - making a to do list + reminder function is also available
-- (incomplete) Sarah is almost able to create 5-6 types of charts with speech recognition. --> I have encountered a problem, while the elements of X axis are working, 
-The Y axis elements data types are cannot be recognized/or considered to be unknown. 
+- (incomplete) Sarah is almost able to create 5-6 types of charts with speech recognition. 
 
 All the commands are written in the code section. I will add the instructions and details.
